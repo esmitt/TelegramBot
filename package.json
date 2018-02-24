@@ -1,5 +1,5 @@
 {
-  "name": "caraotas",
+  "name": "caraotas-bot",
   "version": "1.0.0",
   "description": "testing the telegram bot",
   "main": "index.js",
